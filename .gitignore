@@ -1,0 +1,6 @@
+*.project
+*.classpath
+target/*
+logs/*
+*.factorypath
+*.settings
